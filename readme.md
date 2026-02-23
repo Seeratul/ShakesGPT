@@ -168,4 +168,4 @@ For the test text 'Lord: Rise! My people, conquer the north!' it produced
 
 And with those words from my best GPT implementation yet, I would like to finish this report.
 In the end the lower complexity task of k=1 was easier to solve than having higher more discriptive k actually make sense.
-I would be really curious if/how any student achiveved better or similar performance with higher k´s.
+I would be really curious if/how any student achiveved better or similar performance with higher k´s given the extremely limited size of the input data.
